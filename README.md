@@ -13,3 +13,4 @@ This project implements the game of NIM in Python. For those who are unfamiliar 
 3) The program should is flexible enough that the number of sticks could be easily changed.
 4) The program is flexible enough that you could change this rule to allow taking any number of sticks relatively easily.
 5) The program tells which player's turn it is, how many sticks were taken, and how many sticks are left in the pile. When a player wins, there is a clear message as to who won.
+
