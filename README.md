@@ -1,4 +1,4 @@
-# NIMGame in Python
+# NIM Game in Python
 
 This project implements the game of NIM in Python. For those who are unfamiliar with NIM, here are the rules of the game:
 
